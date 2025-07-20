@@ -1,0 +1,15 @@
+# Ignore class files
+*.class
+
+# Ignore compiled folders
+/out/
+/build/
+/target/
+
+# Ignore IDE files
+*.iml
+.idea/
+
+# System
+.DS_Store
+
